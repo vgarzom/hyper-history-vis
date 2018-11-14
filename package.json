@@ -1,0 +1,16 @@
+{
+  "name": "hyper-history-vis",
+  "version": "1.0.0",
+  "description": "Hyper extension for visualizing history",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hyper",
+    "visualization",
+    "history"
+  ],
+  "author": "Víctor Garzón Marín",
+  "license": "MIT"
+}
